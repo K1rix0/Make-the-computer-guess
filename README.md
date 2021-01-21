@@ -5,4 +5,4 @@ The starting min is 0 and the max is 100, and as i said will shorten every round
 
 As I forgot to say aswell, this was inspired by the beginner projects video from freeCodeCamp.org on youtube
 
-As for the guesses given, 8 would be the default, and same with the min and max(0, 100), you can modify the numebrs to your liking as i thought that these numbers would best qualify a "fair and interesting game"
+As for the guesses given, 8 would be the default, and same with the min and max(0, 100), you can modify the numbers to your liking as i thought that these numbers would best qualify a "fair and interesting game"
