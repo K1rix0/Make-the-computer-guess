@@ -17,7 +17,7 @@ while True:
     global cMin
     cMin = 0
 
-    global max
+    global cMax
     cMax = 101
 
     for x in range(8):
