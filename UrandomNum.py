@@ -53,7 +53,7 @@ while True:
             print("Try again, an error occured.\n")
 
     if yesNo == "y" or yesNo == "Y":
-        print("\nGame reloading...\n")
+        print("\nNew game reloading...\n")
     else:
         print("Thanks for playing\n")
         break
